@@ -1,2 +1,2 @@
-# cwa-notebook-templates
-Notebook templates for a variety of Data Science, ML and AI workflows
+# cwa-templates-pycaret
+Notebook templates for PyCaret workflows
