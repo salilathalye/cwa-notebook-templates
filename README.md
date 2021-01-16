@@ -1,2 +1,2 @@
-# cwa-templates-pycaret
-Notebook templates for PyCaret workflows
+# cwa-templates-dsml
+Notebook templates for Data Science and Machine Learning Workflows
